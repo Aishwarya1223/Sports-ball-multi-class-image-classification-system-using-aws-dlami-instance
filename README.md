@@ -1,5 +1,6 @@
 # Sports ball multi class image classification system using AWS DLAMI (Deep Learning AMI) EC2 Instance
 1. Project Overview
+
     This project is a deep learning-based image classification system designed to identify and classify various types of sports balls from images. It was developed and executed on an AWS Deep Learning AMI (DLAMI) using a G5 EC2 instance with GPU acceleration and Jupyter Notebook as the development environment. Images used for prediction were stored in an Amazon S3 bucket, and the system was capable of displaying the top 3 predicted classes with the highest probabilities for each image.
 
     Key training optimizations implemented in this project include:
